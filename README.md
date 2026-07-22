@@ -5,13 +5,13 @@
 
 [SentinelAI_API_Design](SentinelAI_API_Design_V2.1.md)
 
-[SentinelAI_AI_Design_Workflow](SentinelAI_API_Design_V2.1.md)
+[SentinelAI_AI_Design_Workflow](SentinelAI_AI_Design_Workflow.md)
 
 
 [UI_Design](https://stitch.withgoogle.com/projects/16615172853234171527)
 
 [Project Setup](https://github.com/Sentinel-AI-Sec)
 
-[Product Backlog](SentinelAI_API_Design_V2.1.md)
+[Product Backlog](SentinelAI_Product_Backlog.md)
 
 
